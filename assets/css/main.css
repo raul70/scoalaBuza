@@ -130,6 +130,8 @@ input, select, textarea {
 
 	p, ul, ol, dl, table, blockquote {
 		margin: 0 0 2em 0;
+		line-height: 1.20em;
+		margin-bottom: 0.80em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
